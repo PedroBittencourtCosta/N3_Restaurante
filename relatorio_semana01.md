@@ -3,8 +3,8 @@
 
 **Disciplina:** Desenvolvimento de Software para Concorrência  
 **Domínio:** Sistema de Restaurante  
-**Data de entrega:** 08/06/2026  
-**Tecnologia:** Java 17 puro — sem frameworks  
+**Data de entrega:** 10/06/2026  
+**Alunos:** Luis Carlos de Queiroz Silva, Pedro Bittencourt Costa  
 
 ---
 
@@ -222,4 +222,4 @@ Os quatro problemas identificados e catalogados neste relatório serão corrigid
 
 ---
 
-> **Nota:** As imagens desta seção são capturas reais do terminal durante a execução do código-fonte presente em `src/semana1/`. Substituir os placeholders `./img_*.png` pelas capturas de tela salvas antes de converter para PDF.
+
